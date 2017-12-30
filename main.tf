@@ -8,3 +8,5 @@ resource "aws_instance" "example" {
 	}
 }
 
+added a change!
+
